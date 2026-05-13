@@ -1,3 +1,4 @@
+package ExerciciesBasic;
 public class Exercicies {
     /*crea una variable para almacenar tu nombre */
     String name = "Jaguar EW";

@@ -1,3 +1,4 @@
+package ExerciciesBasic;
 /* Hello Word Exercises */
 
 public class HelloWordExercicies {

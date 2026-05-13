@@ -1,3 +1,4 @@
+package basic;
 /* Hola Java */
 /*Clase 1 */
 /*Autor: Jaguar EW*/

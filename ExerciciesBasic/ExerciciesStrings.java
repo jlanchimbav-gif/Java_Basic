@@ -1,3 +1,4 @@
+package ExerciciesBasic;
 public class ExerciciesStrings {
     public static void main(String[] args) {
         /*Ejercicio 1: Concatenación de cadenas */

@@ -1,3 +1,4 @@
+package ExerciciesBasic;
 public class OperatorsExercicies {
     
     public static void main(String[] args) {

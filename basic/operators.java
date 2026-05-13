@@ -1,3 +1,4 @@
+package basic;
 public class operators {
 
     /* ejemplos simples con operadores de java */
