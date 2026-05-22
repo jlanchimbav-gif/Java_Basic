@@ -46,7 +46,17 @@ public class OperatorsExercicies {
         /*imprime 1 ejercicio conbinando los operadores */
         boolean comp7 = (a > b) && (a < 20) || (a == b);
         System.out.println("Comparación 7 ((a > b) && (a < 20) || (a == b)): " + comp7);
-
+        /* verificar si un número es primo o no */
+        int num = 17;
+        boolean isPrime = true;
+        for (int i = 2; i <= Math.sqrt(num); i++) {
+            if (num % i == 0) {
+                isPrime = false;
+                break;
+            }
+        }
+        System.out.println("El número " + num + " es primo: " + isPrime);
 
 }
 }
+
